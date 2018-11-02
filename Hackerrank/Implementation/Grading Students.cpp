@@ -1,8 +1,13 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
+/* 
+Author : dragonlord
+
+GRADING SUDENTS
+Problem link : https://www.hackerrank.com/challenges/grading/problem
+
+*/
+
+
+#include<bits/stdc++.h>
 using namespace std;
 
 
